@@ -6,8 +6,11 @@
 
 # 50kg 4 reais por cada quilo a mais
 peso = float(input('Peso: '))
-excesso = peso - 50
-multa = excesso * 4
-print('Peso total: ', peso)
-print('Peso excedido: ', excesso)
-print('Multa: ', multa)
+if(peso>50):
+    excesso = peso - 50
+    multa = excesso * 4
+    print('Peso total: ', peso)
+    print('Peso excedido: ', excesso)
+    print('Multa: ', multa)
+else:
+    print('Você não recebe multa !')
