@@ -4,4 +4,4 @@
 * [Lista de exercicios](https://wiki.python.org.br/ListaDeExercicios)
 
 #### Anotações de cursos.
-* [Bootcamp Python](/Cursos/bootcamp_python)
+* [Bootcamp Python](https://github.com/vitavares/Python/tree/main/2.Cursos/bootcamp_python)
