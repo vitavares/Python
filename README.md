@@ -5,4 +5,3 @@
 
 #### Anotações de cursos.
 * [Bootcamp Python](/Cursos/bootcamp_python)
-* [Python Pro - Renzo Nuccitelli](/Cursos/Python pro)
