@@ -1,0 +1,1 @@
+To mock classes or objects in a module under test, use the patch decorator. In the example below, an external search system is replaced with a mock that always returns the same result (but only for the duration of the test).
