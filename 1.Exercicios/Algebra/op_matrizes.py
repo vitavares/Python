@@ -10,3 +10,5 @@ num = sp.Matrix([[2,3], [3,4]])
 resul = sp.Matrix([[1, 0], [0, 1]])
 # %%
 icognitas * num
+# %%
+num / resul
